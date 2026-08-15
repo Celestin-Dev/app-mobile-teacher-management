@@ -1,0 +1,9 @@
+package com.teacher.manager.enums;
+
+public enum LevelEnum {
+  L1,
+  L2,
+  L3,
+  M1,
+  M2
+}
