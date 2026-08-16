@@ -11,7 +11,7 @@ public class SubjectDTO {
   private Long id;
   private String code;
   private String name;
-  private int credits;
+  private double credits;
   private Long groupId;
   private String groupName;
 }

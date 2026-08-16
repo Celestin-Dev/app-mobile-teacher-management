@@ -1,3 +1,4 @@
+// mapper/TeacherMapper.java
 package com.teacher.manager.mapper;
 
 import com.teacher.manager.dto.SubjectDTO;
@@ -21,12 +22,15 @@ public class TeacherMapper {
   }
 
   public static SubjectDTO toSubjectDTO(Subject subject) {
+    Long groupId = subject.getGroup() != null ? subject.getGroup().getId() : null;
+    String groupName = subject.getGroup() != null ? subject.getGroup().getName() : null;
+
     return new SubjectDTO(
         subject.getId(),
         subject.getCode(),
         subject.getName(),
         subject.getCredits(),
-        subject.getGroup() != null ? subject.getGroup().getId() : null,
-        subject.getGroup() != null ? subject.getGroup().getName() : null);
+        groupId,
+        groupName);
   }
 }
