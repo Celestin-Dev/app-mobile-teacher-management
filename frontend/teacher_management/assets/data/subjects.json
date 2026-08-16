@@ -1,0 +1,2550 @@
+[
+  {
+    "id": 1,
+    "code": "TC-L1-001",
+    "name": "Base d'algèbre 1",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 2,
+    "code": "TC-L1-002",
+    "name": "Base d'analyse 1",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 3,
+    "code": "TC-L1-003",
+    "name": "Probabilité et Statistique",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 4,
+    "code": "TC-L1-004",
+    "name": "Mathématiques discrètes",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 5,
+    "code": "TC-L1-005",
+    "name": "Algorithme et structure de données en C",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 6,
+    "code": "TC-L1-006",
+    "name": "Initiation à la POO",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 7,
+    "code": "TC-L1-007",
+    "name": "Langage C",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 8,
+    "code": "TC-L1-008",
+    "name": "Développement de site web en HTML/CSS",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 9,
+    "code": "TC-L1-009",
+    "name": "Technologie XML et DHTML",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 10,
+    "code": "TC-L1-010",
+    "name": "Système d'exploitation Unix",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 11,
+    "code": "TC-L1-011",
+    "name": "Système d'exploitation Windows",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 12,
+    "code": "TC-L1-012",
+    "name": "Théorie des réseaux",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 13,
+    "code": "TC-L1-013",
+    "name": "Architecture des ordinateurs",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 14,
+    "code": "TC-L1-014",
+    "name": "Technologies des réseaux",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 15,
+    "code": "TC-L1-015",
+    "name": "Electronique analogique",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 16,
+    "code": "TC-L1-016",
+    "name": "Electronique numérique",
+    "credits": 3,
+    "group_id": 1
+  },
+  {
+    "id": 17,
+    "code": "TC-L1-017",
+    "name": "Introduction aux systèmes embarqués",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 18,
+    "code": "TC-L1-018",
+    "name": "Base de l'Informatique",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 19,
+    "code": "TC-L1-019",
+    "name": "Comptabilité générale",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 20,
+    "code": "TC-L1-020",
+    "name": "Anglais 1",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 21,
+    "code": "TC-L1-021",
+    "name": "Français 1",
+    "credits": 2,
+    "group_id": 1
+  },
+  {
+    "id": 22,
+    "code": "TC-L1-022",
+    "name": "Projet système et Base de données",
+    "credits": 1,
+    "group_id": 1
+  },
+  {
+    "id": 23,
+    "code": "IG-L2-023",
+    "name": "Analyse 2",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 24,
+    "code": "IG-L2-024",
+    "name": "Algèbre 2",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 25,
+    "code": "IG-L2-025",
+    "name": "Probabilité et Statistique 2",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 26,
+    "code": "IG-L2-026",
+    "name": "Langage Python",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 27,
+    "code": "IG-L2-027",
+    "name": "Programmation objet en C++",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 28,
+    "code": "IG-L2-028",
+    "name": "Algorithme et structure de données avancés en C",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 29,
+    "code": "IG-L2-029",
+    "name": "Base de données relationnelles",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 30,
+    "code": "IG-L2-030",
+    "name": "MERISE 1",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 31,
+    "code": "IG-L2-031",
+    "name": "Développement d'applications SPA",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 32,
+    "code": "IG-L2-032",
+    "name": "Développement d'applications en C#",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 33,
+    "code": "IG-L2-033",
+    "name": "Développement web en PHP",
+    "credits": 4,
+    "group_id": 2
+  },
+  {
+    "id": 34,
+    "code": "IG-L2-034",
+    "name": "Services réseaux",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 35,
+    "code": "IG-L2-035",
+    "name": "Base de l'administration des réseaux",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 36,
+    "code": "IG-L2-036",
+    "name": "Communication et Routage IP",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 37,
+    "code": "IG-L2-037",
+    "name": "Maintenance des systèmes d'exploitation",
+    "credits": 3,
+    "group_id": 2
+  },
+  {
+    "id": 38,
+    "code": "IG-L2-038",
+    "name": "Administration système Unix",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 39,
+    "code": "IG-L2-039",
+    "name": "Administration système Microsoft",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 40,
+    "code": "IG-L2-040",
+    "name": "Langage Assembleur",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 41,
+    "code": "IG-L2-041",
+    "name": "Electronique analogique 2",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 42,
+    "code": "IG-L2-042",
+    "name": "Programmation des microcontrôleurs",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 43,
+    "code": "IG-L2-043",
+    "name": "Anglais 2",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 44,
+    "code": "IG-L2-044",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 2
+  },
+  {
+    "id": 45,
+    "code": "IG-L3-045",
+    "name": "Langage JAVA 1",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 46,
+    "code": "IG-L3-046",
+    "name": "Langage JAVA 2",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 47,
+    "code": "IG-L3-047",
+    "name": "Langage Python",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 48,
+    "code": "IG-L3-048",
+    "name": "Technologies JSP et Servlet 1",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 49,
+    "code": "IG-L3-049",
+    "name": "Développement Mobile",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 50,
+    "code": "IG-L3-050",
+    "name": "Génie Logiciel",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 51,
+    "code": "IG-L3-051",
+    "name": "Administration de Base de données",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 52,
+    "code": "IG-L3-052",
+    "name": "UML",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 53,
+    "code": "IG-L3-053",
+    "name": "MERISE 2",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 54,
+    "code": "IG-L3-054",
+    "name": "Patrons GRASP",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 55,
+    "code": "IG-L3-055",
+    "name": "Téléphonie sur IP",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 56,
+    "code": "IG-L3-056",
+    "name": "Réseaux mobiles",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 57,
+    "code": "IG-L3-057",
+    "name": "Administration réseaux Unix 1",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 58,
+    "code": "IG-L3-058",
+    "name": "Administration réseaux Microsoft 1",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 59,
+    "code": "IG-L3-059",
+    "name": "Assembleur appliqué",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 60,
+    "code": "IG-L3-060",
+    "name": "Interopérabilité et architecture client/serveur",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 61,
+    "code": "IG-L3-061",
+    "name": "Réseaux IP/MPLS",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 62,
+    "code": "IG-L3-062",
+    "name": "Base de la cybersécurité",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 63,
+    "code": "IG-L3-063",
+    "name": "Architecture réseaux sécurisées",
+    "credits": 3,
+    "group_id": 3
+  },
+  {
+    "id": 64,
+    "code": "IG-L3-064",
+    "name": "Anglais",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 65,
+    "code": "IG-L3-065",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 3
+  },
+  {
+    "id": 66,
+    "code": "IG-L3-066",
+    "name": "Marketing",
+    "credits": 1,
+    "group_id": 3
+  },
+  {
+    "id": 67,
+    "code": "IG-L3-067",
+    "name": "Organisation et Management",
+    "credits": 1,
+    "group_id": 3
+  },
+  {
+    "id": 68,
+    "code": "IG-L3-068",
+    "name": "Entreprenariat",
+    "credits": 1,
+    "group_id": 3
+  },
+  {
+    "id": 69,
+    "code": "IG-L3-069",
+    "name": "Gestion de Projet",
+    "credits": 1,
+    "group_id": 3
+  },
+  {
+    "id": 70,
+    "code": "IG-L3-070",
+    "name": "Droit des affaires et du travail",
+    "credits": 1,
+    "group_id": 3
+  },
+  {
+    "id": 71,
+    "code": "IG-M1-071",
+    "name": "Recherche opérationnelle",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 72,
+    "code": "IG-M1-072",
+    "name": "Analyse des données",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 73,
+    "code": "IG-M1-073",
+    "name": "Analyse numérique",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 74,
+    "code": "IG-M1-074",
+    "name": "Algorithmique avancé",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 75,
+    "code": "IG-M1-075",
+    "name": "Technologie avancée en Java",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 76,
+    "code": "IG-M1-076",
+    "name": "Technologie web avancée",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 77,
+    "code": "IG-M1-077",
+    "name": "Technologie Nodejs",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 78,
+    "code": "IG-M1-078",
+    "name": "Intégration Web-SIG",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 79,
+    "code": "IG-M1-079",
+    "name": "Ingénierie des besoins",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 80,
+    "code": "IG-M1-080",
+    "name": "Génie logiciel",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 81,
+    "code": "IG-M1-081",
+    "name": "Interface Homme-Machine",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 82,
+    "code": "IG-M1-082",
+    "name": "Intelligence artificielle",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 83,
+    "code": "IG-M1-083",
+    "name": "Machine Learning et Deep Learning",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 84,
+    "code": "IG-M1-084",
+    "name": "Programmation parallèle et distribuée",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 85,
+    "code": "IG-M1-085",
+    "name": "Programmation des réseaux",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 86,
+    "code": "IG-M1-086",
+    "name": "Systèmes embarqués et temps réels",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 87,
+    "code": "IG-M1-087",
+    "name": "Réseau de Pétri et programmation multitâche",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 88,
+    "code": "IG-M1-088",
+    "name": "Sécurité sous Unix",
+    "credits": 2,
+    "group_id": 4
+  },
+  {
+    "id": 89,
+    "code": "IG-M1-089",
+    "name": "Administration système et réseau avancée",
+    "credits": 3,
+    "group_id": 4
+  },
+  {
+    "id": 90,
+    "code": "IG-M1-090",
+    "name": "Technique de communication",
+    "credits": 1.5,
+    "group_id": 4
+  },
+  {
+    "id": 91,
+    "code": "IG-M1-091",
+    "name": "Anglais techniques",
+    "credits": 1.5,
+    "group_id": 4
+  },
+  {
+    "id": 92,
+    "code": "IG-M2-092",
+    "name": "Réutilisation logiciel & frameworks",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 93,
+    "code": "IG-M2-093",
+    "name": "Architecture Orienté Service",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 94,
+    "code": "IG-M2-094",
+    "name": "Développement d'applications mobiles",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 95,
+    "code": "IG-M2-095",
+    "name": "Administration avancée de base de données",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 96,
+    "code": "IG-M2-096",
+    "name": "Méthodes Agile",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 97,
+    "code": "IG-M2-097",
+    "name": "Interaction Homme-Machine 2",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 98,
+    "code": "IG-M2-098",
+    "name": "Système d'Information décisionnelle",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 99,
+    "code": "IG-M2-099",
+    "name": "Aide à la décision et optimisation multicritère",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 100,
+    "code": "IG-M2-100",
+    "name": "Technologie de virtualisation et SDN",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 101,
+    "code": "IG-M2-101",
+    "name": "Sensibilisation à l'Internet des Objets",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 102,
+    "code": "IG-M2-102",
+    "name": "GRID et CLUSTER",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 103,
+    "code": "IG-M2-103",
+    "name": "Sécurité avancée",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 104,
+    "code": "IG-M2-104",
+    "name": "MPLS et QoS",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 105,
+    "code": "IG-M2-105",
+    "name": "Téléphonie sur IP avancée",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 106,
+    "code": "IG-M2-106",
+    "name": "Réseau mobile avancée",
+    "credits": 2,
+    "group_id": 5
+  },
+  {
+    "id": 107,
+    "code": "IG-M2-107",
+    "name": "Modélisation mathématique",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 108,
+    "code": "IG-M2-108",
+    "name": "Système multi-agents",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 109,
+    "code": "IG-M2-109",
+    "name": "Python pour Machine Learning",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 110,
+    "code": "IG-M2-110",
+    "name": "Système expert",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 111,
+    "code": "IG-M2-111",
+    "name": "Méthodologie d'élaboration de mémoires",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 112,
+    "code": "IG-M2-112",
+    "name": "Méthodologie de recherche",
+    "credits": 3,
+    "group_id": 5
+  },
+  {
+    "id": 113,
+    "code": "GB-L2-113",
+    "name": "Base d'algèbre 2",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 114,
+    "code": "GB-L2-114",
+    "name": "Base d'analyse 2",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 115,
+    "code": "GB-L2-115",
+    "name": "Probabilité et Statistique",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 116,
+    "code": "GB-L2-116",
+    "name": "Programmation linéaire",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 117,
+    "code": "GB-L2-117",
+    "name": "Algorithmique et structure de données avancés",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 118,
+    "code": "GB-L2-118",
+    "name": "Programmation Orienté Objet en C++",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 119,
+    "code": "GB-L2-119",
+    "name": "Langage Java",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 120,
+    "code": "GB-L2-120",
+    "name": "Langage Python",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 121,
+    "code": "GB-L2-121",
+    "name": "Technologie PHP",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 122,
+    "code": "GB-L2-122",
+    "name": "Base de données relationnelles",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 123,
+    "code": "GB-L2-123",
+    "name": "Base de données avancées",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 124,
+    "code": "GB-L2-124",
+    "name": "SGBD MySQL et PostGreSQL",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 125,
+    "code": "GB-L2-125",
+    "name": "Introduction aux méthodes",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 126,
+    "code": "GB-L2-126",
+    "name": "MERISE 1",
+    "credits": 3,
+    "group_id": 6
+  },
+  {
+    "id": 127,
+    "code": "GB-L2-127",
+    "name": "MERISE 2",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 128,
+    "code": "GB-L2-128",
+    "name": "Développement d'application SPA",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 129,
+    "code": "GB-L2-129",
+    "name": "Développement d'application en C#",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 130,
+    "code": "GB-L2-130",
+    "name": "Comptabilité analytique",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 131,
+    "code": "GB-L2-131",
+    "name": "Méthode de Travail Universitaire",
+    "credits": 1,
+    "group_id": 6
+  },
+  {
+    "id": 132,
+    "code": "GB-L2-132",
+    "name": "Anglais",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 133,
+    "code": "GB-L2-133",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 6
+  },
+  {
+    "id": 134,
+    "code": "GB-L3-134",
+    "name": "Langage JAVA",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 135,
+    "code": "GB-L3-135",
+    "name": "Technologie JAVA",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 136,
+    "code": "GB-L3-136",
+    "name": "Technologie Python",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 137,
+    "code": "GB-L3-137",
+    "name": "Technologies JSP et Servlet 1",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 138,
+    "code": "GB-L3-138",
+    "name": "Administration de Base de données",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 139,
+    "code": "GB-L3-139",
+    "name": "UML",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 140,
+    "code": "GB-L3-140",
+    "name": "Patrons de conception",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 141,
+    "code": "GB-L3-141",
+    "name": "Patrons GRASP et GoF",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 142,
+    "code": "GB-L3-142",
+    "name": "Génie Logiciel 1",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 143,
+    "code": "GB-L3-143",
+    "name": "Développement Web API",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 144,
+    "code": "GB-L3-144",
+    "name": "Développement mobile",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 145,
+    "code": "GB-L3-145",
+    "name": "Technologie web mobile",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 146,
+    "code": "GB-L3-146",
+    "name": "Interaction Homme-Machine",
+    "credits": 3,
+    "group_id": 7
+  },
+  {
+    "id": 147,
+    "code": "GB-L3-147",
+    "name": "Anglais",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 148,
+    "code": "GB-L3-148",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 149,
+    "code": "GB-L3-149",
+    "name": "Marketing",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 150,
+    "code": "GB-L3-150",
+    "name": "Organisation et Management",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 151,
+    "code": "GB-L3-151",
+    "name": "Entreupeunariat",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 152,
+    "code": "GB-L3-152",
+    "name": "Gestion de Projet",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 153,
+    "code": "GB-L3-153",
+    "name": "Droit des affaires et du travail",
+    "credits": 2,
+    "group_id": 7
+  },
+  {
+    "id": 154,
+    "code": "GB-M1-154",
+    "name": "Recherche opérationnelle",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 155,
+    "code": "GB-M1-155",
+    "name": "Analyse des données",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 156,
+    "code": "GB-M1-156",
+    "name": "Analyse numérique",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 157,
+    "code": "GB-M1-157",
+    "name": "Réseau de Pétri et programmation multi-tâche",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 158,
+    "code": "GB-M1-158",
+    "name": "Algorithmique avancé",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 159,
+    "code": "GB-M1-159",
+    "name": "Technologie avancée en Java",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 160,
+    "code": "GB-M1-160",
+    "name": "Technologie web avancée",
+    "credits": 4,
+    "group_id": 8
+  },
+  {
+    "id": 161,
+    "code": "GB-M1-161",
+    "name": "Développement d'application Mobile 2",
+    "credits": 4,
+    "group_id": 8
+  },
+  {
+    "id": 162,
+    "code": "GB-M1-162",
+    "name": "Intégration Web-SIG",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 163,
+    "code": "GB-M1-163",
+    "name": "Ingénierie des besoins",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 164,
+    "code": "GB-M1-164",
+    "name": "Génie logiciel avancé",
+    "credits": 4,
+    "group_id": 8
+  },
+  {
+    "id": 165,
+    "code": "GB-M1-165",
+    "name": "Interaction Homme-Machine",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 166,
+    "code": "GB-M1-166",
+    "name": "Intelligence artificielle",
+    "credits": 4,
+    "group_id": 8
+  },
+  {
+    "id": 167,
+    "code": "GB-M1-167",
+    "name": "Machine learning",
+    "credits": 4,
+    "group_id": 8
+  },
+  {
+    "id": 168,
+    "code": "GB-M1-168",
+    "name": "Technologie Python",
+    "credits": 4,
+    "group_id": 8
+  },
+  {
+    "id": 169,
+    "code": "GB-M1-169",
+    "name": "Technique de communication",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 170,
+    "code": "GB-M1-170",
+    "name": "Anglais techniques",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 171,
+    "code": "GB-M1-171",
+    "name": "Gestion financière et budgétaire",
+    "credits": 3,
+    "group_id": 8
+  },
+  {
+    "id": 172,
+    "code": "GB-M2-172",
+    "name": "Réutilisation logiciel & frameworks",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 173,
+    "code": "GB-M2-173",
+    "name": "Architecture Orienté Service",
+    "credits": 4,
+    "group_id": 9
+  },
+  {
+    "id": 174,
+    "code": "GB-M2-174",
+    "name": "BPM & Workflow",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 175,
+    "code": "GB-M2-175",
+    "name": "Administration avancée de base de données",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 176,
+    "code": "GB-M2-176",
+    "name": "DevOps",
+    "credits": 4,
+    "group_id": 9
+  },
+  {
+    "id": 177,
+    "code": "GB-M2-177",
+    "name": "Architecture logicielle",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 178,
+    "code": "GB-M2-178",
+    "name": "Ingéniérie Dirigée par le Modèle",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 179,
+    "code": "GB-M2-179",
+    "name": "Urbanisation des Systèmes d'Information",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 180,
+    "code": "GB-M2-180",
+    "name": "Sciences des données",
+    "credits": 4,
+    "group_id": 9
+  },
+  {
+    "id": 181,
+    "code": "GB-M2-181",
+    "name": "Méthodes Agile",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 182,
+    "code": "GB-M2-182",
+    "name": "Système d'Information décisionnelle",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 183,
+    "code": "GB-M2-183",
+    "name": "Aide à la décision et optimisation multi-critère",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 184,
+    "code": "GB-M2-184",
+    "name": "Modélisation mathématique",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 185,
+    "code": "GB-M2-185",
+    "name": "Système Multi-Agents",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 186,
+    "code": "GB-M2-186",
+    "name": "Méthodologie d'élaboration de mémoires",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 187,
+    "code": "GB-M2-187",
+    "name": "Méthodologie de recherche",
+    "credits": 3,
+    "group_id": 9
+  },
+  {
+    "id": 188,
+    "code": "ASR-L2-188",
+    "name": "Base d'algèbre 2",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 189,
+    "code": "ASR-L2-189",
+    "name": "Base d'analyse 2",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 190,
+    "code": "ASR-L2-190",
+    "name": "Probabilité et Statistique 2",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 191,
+    "code": "ASR-L2-191",
+    "name": "Programmation linéaire",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 192,
+    "code": "ASR-L2-192",
+    "name": "Algorithmique et structure de données en C",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 193,
+    "code": "ASR-L2-193",
+    "name": "Programmation en C++",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 194,
+    "code": "ASR-L2-194",
+    "name": "Langage Python",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 195,
+    "code": "ASR-L2-195",
+    "name": "Langage Assembleur",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 196,
+    "code": "ASR-L2-196",
+    "name": "Langage JAVA",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 197,
+    "code": "ASR-L2-197",
+    "name": "Technologie PHP",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 198,
+    "code": "ASR-L2-198",
+    "name": "Technologie javascript",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 199,
+    "code": "ASR-L2-199",
+    "name": "Conception des logiciels",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 200,
+    "code": "ASR-L2-200",
+    "name": "Base de sécurité des systèmes d'information",
+    "credits": 3,
+    "group_id": 10
+  },
+  {
+    "id": 201,
+    "code": "ASR-L2-201",
+    "name": "Administration système Linux",
+    "credits": 3,
+    "group_id": 10
+  },
+  {
+    "id": 202,
+    "code": "ASR-L2-202",
+    "name": "Administration système Windows",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 203,
+    "code": "ASR-L2-203",
+    "name": "Electronique analogique",
+    "credits": 3,
+    "group_id": 10
+  },
+  {
+    "id": 204,
+    "code": "ASR-L2-204",
+    "name": "Programmation des microcontrôleurs",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 205,
+    "code": "ASR-L2-205",
+    "name": "Base de l'administration des réseaux",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 206,
+    "code": "ASR-L2-206",
+    "name": "Service réseaux",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 207,
+    "code": "ASR-L2-207",
+    "name": "Méthodologie de conception des systèmes et réseaux",
+    "credits": 3,
+    "group_id": 10
+  },
+  {
+    "id": 208,
+    "code": "ASR-L2-208",
+    "name": "Routage IP",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 209,
+    "code": "ASR-L2-209",
+    "name": "Technologie sans fil et fibre optique",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 210,
+    "code": "ASR-L2-210",
+    "name": "Sécurité réseaux sous windows",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 211,
+    "code": "ASR-L2-211",
+    "name": "Anglais",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 212,
+    "code": "ASR-L2-212",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 213,
+    "code": "ASR-L2-213",
+    "name": "Méthode de Travail Universitaire",
+    "credits": 2,
+    "group_id": 10
+  },
+  {
+    "id": 214,
+    "code": "ASR-L3-214",
+    "name": "Technologie JAVA",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 215,
+    "code": "ASR-L3-215",
+    "name": "Technologie Python avancé",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 216,
+    "code": "ASR-L3-216",
+    "name": "Technologie NodeJs",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 217,
+    "code": "ASR-L3-217",
+    "name": "Langage Assembleur appliqué",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 218,
+    "code": "ASR-L3-218",
+    "name": "Conception des logiciels",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 219,
+    "code": "ASR-L3-219",
+    "name": "Ingeniérie des bases de données",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 220,
+    "code": "ASR-L3-220",
+    "name": "Développement d'application mobile",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 221,
+    "code": "ASR-L3-221",
+    "name": "Technologie web mobile",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 222,
+    "code": "ASR-L3-222",
+    "name": "Introduction au Machine Learning",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 223,
+    "code": "ASR-L3-223",
+    "name": "Projet Machine Learning",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 224,
+    "code": "ASR-L3-224",
+    "name": "Administration Système Unix 2",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 225,
+    "code": "ASR-L3-225",
+    "name": "Administration Système Microsoft 2",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 226,
+    "code": "ASR-L3-226",
+    "name": "Cybersécurité",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 227,
+    "code": "ASR-L3-227",
+    "name": "Sécurité web, Mail et réseaux sociaux",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 228,
+    "code": "ASR-L3-228",
+    "name": "Administration réseaux Unix 1",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 229,
+    "code": "ASR-L3-229",
+    "name": "Administration réseaux Microsoft 1",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 230,
+    "code": "ASR-L3-230",
+    "name": "Interopérabilité et architecture client/serveur",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 231,
+    "code": "ASR-L3-231",
+    "name": "Réseaux IP/MPLS",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 232,
+    "code": "ASR-L3-232",
+    "name": "Réseaux d'opérateurs",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 233,
+    "code": "ASR-L3-233",
+    "name": "Téléphonie sur IP",
+    "credits": 3,
+    "group_id": 11
+  },
+  {
+    "id": 234,
+    "code": "ASR-L3-234",
+    "name": "Anglais",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 235,
+    "code": "ASR-L3-235",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 11
+  },
+  {
+    "id": 236,
+    "code": "ASR-L3-236",
+    "name": "Entreupeunariat",
+    "credits": 1,
+    "group_id": 11
+  },
+  {
+    "id": 237,
+    "code": "ASR-L3-237",
+    "name": "Gestion de Projet",
+    "credits": 1,
+    "group_id": 11
+  },
+  {
+    "id": 238,
+    "code": "ASR-L3-238",
+    "name": "Droit des affaires et du travail",
+    "credits": 1,
+    "group_id": 11
+  },
+  {
+    "id": 239,
+    "code": "ASR-M1-239",
+    "name": "Recherche opérationnelle",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 240,
+    "code": "ASR-M1-240",
+    "name": "Analyse des données",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 241,
+    "code": "ASR-M1-241",
+    "name": "Analyse numérique",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 242,
+    "code": "ASR-M1-242",
+    "name": "Réseau de Pétri et programmation multi-tâche",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 243,
+    "code": "ASR-M1-243",
+    "name": "Algorithmique avancé",
+    "credits": 4,
+    "group_id": 12
+  },
+  {
+    "id": 244,
+    "code": "ASR-M1-244",
+    "name": "Technologie avancée en Java",
+    "credits": 2,
+    "group_id": 12
+  },
+  {
+    "id": 245,
+    "code": "ASR-M1-245",
+    "name": "Technologie de virtualisation et conteneurisation",
+    "credits": 4,
+    "group_id": 12
+  },
+  {
+    "id": 246,
+    "code": "ASR-M1-246",
+    "name": "Intelligence artificielle",
+    "credits": 4,
+    "group_id": 12
+  },
+  {
+    "id": 247,
+    "code": "ASR-M1-247",
+    "name": "Python pour Machine Learning",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 248,
+    "code": "ASR-M1-248",
+    "name": "Linux pour le DevOps",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 249,
+    "code": "ASR-M1-249",
+    "name": "Programmation des réseaux",
+    "credits": 4,
+    "group_id": 12
+  },
+  {
+    "id": 250,
+    "code": "ASR-M1-250",
+    "name": "Administration système avancée",
+    "credits": 4,
+    "group_id": 12
+  },
+  {
+    "id": 251,
+    "code": "ASR-M1-251",
+    "name": "Administration réseau en python",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 252,
+    "code": "ASR-M1-252",
+    "name": "Systèmes embarqués et temps réels",
+    "credits": 4,
+    "group_id": 12
+  },
+  {
+    "id": 253,
+    "code": "ASR-M1-253",
+    "name": "Sécurité sous Unix",
+    "credits": 3,
+    "group_id": 12
+  },
+  {
+    "id": 254,
+    "code": "ASR-M1-254",
+    "name": "Technique de communication",
+    "credits": 2,
+    "group_id": 12
+  },
+  {
+    "id": 255,
+    "code": "ASR-M1-255",
+    "name": "Anglais techniques",
+    "credits": 2,
+    "group_id": 12
+  },
+  {
+    "id": 256,
+    "code": "ASR-M2-256",
+    "name": "GRID et CLUSTER",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 257,
+    "code": "ASR-M2-257",
+    "name": "Technologie de virtualisation",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 258,
+    "code": "ASR-M2-258",
+    "name": "Internet des Objets",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 259,
+    "code": "ASR-M2-259",
+    "name": "MPLS et QoS",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 260,
+    "code": "ASR-M2-260",
+    "name": "Réseau mobile avancé",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 261,
+    "code": "ASR-M2-261",
+    "name": "Cybersécurité avancée",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 262,
+    "code": "ASR-M2-262",
+    "name": "Développement d'application mobile",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 263,
+    "code": "ASR-M2-263",
+    "name": "Conception des logiciels",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 264,
+    "code": "ASR-M2-264",
+    "name": "Système d'Information Décisionnelle",
+    "credits": 4,
+    "group_id": 13
+  },
+  {
+    "id": 265,
+    "code": "ASR-M2-265",
+    "name": "Projet python et programmation Orienté Objet",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 266,
+    "code": "ASR-M2-266",
+    "name": "Projet Machine Learning et Deep Learning",
+    "credits": 3,
+    "group_id": 13
+  },
+  {
+    "id": 267,
+    "code": "ASR-M2-267",
+    "name": "Modélisation mathématique",
+    "credits": 4,
+    "group_id": 13
+  },
+  {
+    "id": 268,
+    "code": "ASR-M2-268",
+    "name": "Système multi-agents",
+    "credits": 4,
+    "group_id": 13
+  },
+  {
+    "id": 269,
+    "code": "ASR-M2-269",
+    "name": "Aide à la décision et optimisation multi-critère",
+    "credits": 4,
+    "group_id": 13
+  },
+  {
+    "id": 270,
+    "code": "ASR-M2-270",
+    "name": "Méthodologie d'élaboration de mémoires",
+    "credits": 4,
+    "group_id": 13
+  },
+  {
+    "id": 271,
+    "code": "ASR-M2-271",
+    "name": "Méthodologie de recherche",
+    "credits": 4,
+    "group_id": 13
+  },
+  {
+    "id": 272,
+    "code": "GID-M1-272",
+    "name": "Algèbre linéaire",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 273,
+    "code": "GID-M1-273",
+    "name": "Analyse",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 274,
+    "code": "GID-M1-274",
+    "name": "ProbaStat",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 275,
+    "code": "GID-M1-275",
+    "name": "Initiation à l'IA",
+    "credits": 3,
+    "group_id": 14
+  },
+  {
+    "id": 276,
+    "code": "GID-M1-276",
+    "name": "Initiation à la gouvernance de données",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 277,
+    "code": "GID-M1-277",
+    "name": "Base de données SQL et NoSQL",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 278,
+    "code": "GID-M1-278",
+    "name": "Développement backend",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 279,
+    "code": "GID-M1-279",
+    "name": "Développement frontend",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 280,
+    "code": "GID-M1-280",
+    "name": "R pour la Science de données",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 281,
+    "code": "GID-M1-281",
+    "name": "Français",
+    "credits": 1.5,
+    "group_id": 14
+  },
+  {
+    "id": 282,
+    "code": "GID-M1-282",
+    "name": "Anglais",
+    "credits": 1.5,
+    "group_id": 14
+  },
+  {
+    "id": 283,
+    "code": "GID-M1-283",
+    "name": "Stratégie et marketing digital",
+    "credits": 1.5,
+    "group_id": 14
+  },
+  {
+    "id": 284,
+    "code": "GID-M1-284",
+    "name": "Méthodologie de recherche",
+    "credits": 1.5,
+    "group_id": 14
+  },
+  {
+    "id": 285,
+    "code": "GID-M1-285",
+    "name": "Initiation à la cybersécurité",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 286,
+    "code": "GID-M1-286",
+    "name": "IAM et fournisseur d'identité",
+    "credits": 3,
+    "group_id": 14
+  },
+  {
+    "id": 287,
+    "code": "GID-M1-287",
+    "name": "Initiation à la science de données",
+    "credits": 3,
+    "group_id": 14
+  },
+  {
+    "id": 288,
+    "code": "GID-M1-288",
+    "name": "Initiation au Big Data",
+    "credits": 3,
+    "group_id": 14
+  },
+  {
+    "id": 289,
+    "code": "GID-M1-289",
+    "name": "Python pour la Science de données",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 290,
+    "code": "GID-M1-290",
+    "name": "Internet des objets IoT",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 291,
+    "code": "GID-M1-291",
+    "name": "Technologies mobiles et PWA",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 292,
+    "code": "GID-M1-292",
+    "name": "Architecture logicielle",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 293,
+    "code": "GID-M1-293",
+    "name": "Agile",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 294,
+    "code": "GID-M1-294",
+    "name": "Lean start-up",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 295,
+    "code": "GID-M1-295",
+    "name": "UX/UI Design",
+    "credits": 2,
+    "group_id": 14
+  },
+  {
+    "id": 296,
+    "code": "GID-M1-296",
+    "name": "Projet",
+    "credits": 10,
+    "group_id": 14
+  },
+  {
+    "id": 297,
+    "code": "GID-M2-297",
+    "name": "Outils mathématiques pour l'IA",
+    "credits": 3,
+    "group_id": 15
+  },
+  {
+    "id": 298,
+    "code": "GID-M2-298",
+    "name": "Machine Learning & Deep Learning",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 299,
+    "code": "GID-M2-299",
+    "name": "Modélisation de connaissance",
+    "credits": 1,
+    "group_id": 15
+  },
+  {
+    "id": 300,
+    "code": "GID-M2-300",
+    "name": "Gouvernance de données",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 301,
+    "code": "GID-M2-301",
+    "name": "Big data",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 302,
+    "code": "GID-M2-302",
+    "name": "Structure de gouvernance de données",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 303,
+    "code": "GID-M2-303",
+    "name": "Interopérabilité et exploitation de données",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 304,
+    "code": "GID-M2-304",
+    "name": "Elaboration de dossier d'architecture technique",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 305,
+    "code": "GID-M2-305",
+    "name": "Interopérabilité de modèle",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 306,
+    "code": "GID-M2-306",
+    "name": "Prototypage et test utilisateur",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 307,
+    "code": "GID-M2-307",
+    "name": "Intégration et déploiement continus",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 308,
+    "code": "GID-M2-308",
+    "name": "Outils collaboratifs",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 309,
+    "code": "GID-M2-309",
+    "name": "Sécurité web",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 310,
+    "code": "GID-M2-310",
+    "name": "Qualimétrie",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 311,
+    "code": "GID-M2-311",
+    "name": "Gestion d'identité",
+    "credits": 2,
+    "group_id": 15
+  },
+  {
+    "id": 312,
+    "code": "OCC-M1-312",
+    "name": "Concepts et fondements sur Internet des objets",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 313,
+    "code": "OCC-M1-313",
+    "name": "Conception de systèmes IoT évolutifs et distribués",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 314,
+    "code": "OCC-M1-314",
+    "name": "Modèles et architecture IoT",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 315,
+    "code": "OCC-M1-315",
+    "name": "Concepts et fondements sur la Cybersécurité",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 316,
+    "code": "OCC-M1-316",
+    "name": "Principes de base de la cryptographie",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 317,
+    "code": "OCC-M1-317",
+    "name": "Architecture de réseau IoT et topologies",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 318,
+    "code": "OCC-M1-318",
+    "name": "Protocoles et sécurité pour l'IoT",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 319,
+    "code": "OCC-M1-319",
+    "name": "Protocole de communication sécurisée pour les systèmes embarqués",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 320,
+    "code": "OCC-M1-320",
+    "name": "Circuits et matériels électroniques",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 321,
+    "code": "OCC-M1-321",
+    "name": "IoT sur microcontrôleur",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 322,
+    "code": "OCC-M1-322",
+    "name": "Capteurs connectés et équipement",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 323,
+    "code": "OCC-M1-323",
+    "name": "Commande et contrôle des actuateurs IoT",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 324,
+    "code": "OCC-M1-324",
+    "name": "Optimisation et Haute performance",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 325,
+    "code": "OCC-M1-325",
+    "name": "Complexité algorithmique et POO",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 326,
+    "code": "OCC-M1-326",
+    "name": "Plates-formes de développement IoT",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 327,
+    "code": "OCC-M1-327",
+    "name": "DevOps pour IoT",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 328,
+    "code": "OCC-M1-328",
+    "name": "Développement mobile",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 329,
+    "code": "OCC-M1-329",
+    "name": "Interaction homme-machine et IoT",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 330,
+    "code": "OCC-M1-330",
+    "name": "Programmation pour les systèmes embarqués",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 331,
+    "code": "OCC-M1-331",
+    "name": "Projet",
+    "credits": 10,
+    "group_id": 16
+  },
+  {
+    "id": 332,
+    "code": "OCC-M1-332",
+    "name": "Mathématique pour l'informatique",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 333,
+    "code": "OCC-M1-333",
+    "name": "Apprentissage automatique (ML & DL)",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 334,
+    "code": "OCC-M1-334",
+    "name": "Big Data et traitement des données IoT",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 335,
+    "code": "OCC-M1-335",
+    "name": "Sécurités des systèmes de contrôle industriel (ICS) et des SCADA",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 336,
+    "code": "OCC-M1-336",
+    "name": "Sécurité de communication mobile",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 337,
+    "code": "OCC-M1-337",
+    "name": "Sécurité des systèmes d'exploitation",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 338,
+    "code": "OCC-M1-338",
+    "name": "Sécurité de données et base de données en IoT",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 339,
+    "code": "OCC-M1-339",
+    "name": "Sécurité des applications web",
+    "credits": 2,
+    "group_id": 16
+  },
+  {
+    "id": 340,
+    "code": "OCC-M1-340",
+    "name": "Modèle de menace et attaques courantes",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 341,
+    "code": "OCC-M1-341",
+    "name": "Soft Skills",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 342,
+    "code": "OCC-M1-342",
+    "name": "Stratégie et Marketing digital",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 343,
+    "code": "OCC-M1-343",
+    "name": "Méthodologie de recherche",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 344,
+    "code": "OCC-M1-344",
+    "name": "Français",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 345,
+    "code": "OCC-M1-345",
+    "name": "Anglais",
+    "credits": 1,
+    "group_id": 16
+  },
+  {
+    "id": 346,
+    "code": "OCC-M2-346",
+    "name": "Jumeaux numériques",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 347,
+    "code": "OCC-M2-347",
+    "name": "Réseaux mobiles et réseaux télécommunication",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 348,
+    "code": "OCC-M2-348",
+    "name": "Virtualisation et sécurité",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 349,
+    "code": "OCC-M2-349",
+    "name": "Communication de matériel IoT",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 350,
+    "code": "OCC-M2-350",
+    "name": "Norme et règlementation en cybersécurité",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 351,
+    "code": "OCC-M2-351",
+    "name": "Tests d'intrusion et évaluation de la sécurité",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 352,
+    "code": "OCC-M2-352",
+    "name": "Gestion de vulnérabilité, d'intrusion et correctif",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 353,
+    "code": "OCC-M2-353",
+    "name": "Menace et contre-mesures dans les réseaux sans fil",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 354,
+    "code": "OCC-M2-354",
+    "name": "Evaluation des risques en cybersécurité",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 355,
+    "code": "OCC-M2-355",
+    "name": "Conformité règlementaire et normes de sécurité",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 356,
+    "code": "OCC-M2-356",
+    "name": "Cloud computing",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 357,
+    "code": "OCC-M2-357",
+    "name": "Smart city",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 358,
+    "code": "OCC-M2-358",
+    "name": "Smart Data",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 359,
+    "code": "OCC-M2-359",
+    "name": "GeoIA",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 360,
+    "code": "OCC-M2-360",
+    "name": "Internet Industriel des objets et Internet of MedicalThings (IIoT et IoMT)",
+    "credits": 2,
+    "group_id": 17
+  },
+  {
+    "id": 361,
+    "code": "OCC-M2-361",
+    "name": "Modèles économiques de l'IoT",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 362,
+    "code": "OCC-M2-362",
+    "name": "Aspects juridiques et réglementaires de l'IoT",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 363,
+    "code": "OCC-M2-363",
+    "name": "Vulnérabilité et défenses dans les environnements industriels",
+    "credits": 1,
+    "group_id": 17
+  },
+  {
+    "id": 364,
+    "code": "OCC-M2-364",
+    "name": "Applications et domaines d'utilisation de l'IoT",
+    "credits": 1,
+    "group_id": 17
+  }
+]

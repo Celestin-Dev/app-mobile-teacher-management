@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "code": "TC-L1",
+    "name": "Tronc Commun",
+    "level": "L1"
+  },
+  {
+    "id": 2,
+    "code": "IG-L2",
+    "name": "Informatique Générale",
+    "level": "L2"
+  },
+  {
+    "id": 3,
+    "code": "IG-L3",
+    "name": "Informatique Générale",
+    "level": "L3"
+  },
+  {
+    "id": 4,
+    "code": "IG-M1",
+    "name": "Informatique Générale",
+    "level": "M1"
+  },
+  {
+    "id": 5,
+    "code": "IG-M2",
+    "name": "Informatique Générale",
+    "level": "M2"
+  },
+  {
+    "id": 6,
+    "code": "GB-L2",
+    "name": "Génie Logiciel et Base de Données",
+    "level": "L2"
+  },
+  {
+    "id": 7,
+    "code": "GB-L3",
+    "name": "Génie Logiciel et Base de Données",
+    "level": "L3"
+  },
+  {
+    "id": 8,
+    "code": "GB-M1",
+    "name": "Génie Logiciel et Base de Données",
+    "level": "M1"
+  },
+  {
+    "id": 9,
+    "code": "GB-M2",
+    "name": "Génie Logiciel et Base de Données",
+    "level": "M2"
+  },
+  {
+    "id": 10,
+    "code": "ASR-L2",
+    "name": "Administration des Systèmes Réseaux",
+    "level": "L2"
+  },
+  {
+    "id": 11,
+    "code": "ASR-L3",
+    "name": "Administration des Systèmes Réseaux",
+    "level": "L3"
+  },
+  {
+    "id": 12,
+    "code": "ASR-M1",
+    "name": "Administration des Systèmes Réseaux",
+    "level": "M1"
+  },
+  {
+    "id": 13,
+    "code": "ASR-M2",
+    "name": "Administration des Systèmes Réseaux",
+    "level": "M2"
+  },
+  {
+    "id": 14,
+    "code": "GID-M1",
+    "name": "Gouvernance et Ingénierie de Données",
+    "level": "M1"
+  },
+  {
+    "id": 15,
+    "code": "GID-M2",
+    "name": "Gouvernance et Ingénierie de Données",
+    "level": "M2"
+  },
+  {
+    "id": 16,
+    "code": "OCC-M1",
+    "name": "Objets Connectés et Cybersécurités",
+    "level": "M1"
+  },
+  {
+    "id": 17,
+    "code": "OCC-M2",
+    "name": "Objets Connectés et Cybersécurités",
+    "level": "M2"
+  }
+]

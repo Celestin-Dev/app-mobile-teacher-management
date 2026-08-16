@@ -1,0 +1,45 @@
+name: teacher_management
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.4.0                    # client HTTP
+  flutter_riverpod: ^2.5.1       # gestion d'état
+  go_router: ^14.2.0             # navigation/routing
+  google_fonts: ^6.2.1           # Space Grotesk, Inter, IBM Plex Mono
+  flutter_secure_storage: ^9.2.2 # stockage token JWT
+  image_picker: ^1.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.9
+  json_serializable: ^6.8.0
+  flutter_native_splash: ^2.4.7
+
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/eni_building.jpg
+    - assets/data/teachers.json
+    - assets/data/subjects.json
+    - assets/data/teacher_subjects.json
+
+flutter_native_splash:
+  color: "#008230"
+  image: assets/images/logo.png
+  android: true
+  ios: true
+  web: false
+  android_12:
+    color: "#008230"
+    image: assets/images/logo1.png

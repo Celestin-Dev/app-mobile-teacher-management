@@ -28,7 +28,7 @@ public class Subject {
 
   private String name;
 
-  private int credits;
+  private double credits;
 
   @ManyToOne
   @JoinColumn(name = "group_id", nullable = false)

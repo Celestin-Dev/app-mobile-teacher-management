@@ -5,6 +5,8 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import lombok.Data;
@@ -34,7 +36,10 @@ public class Teacher {
   private String grade;
   private String specialty;
   private String photo;
-  private Long departmentId;
+
+  @ManyToOne
+  @JoinColumn(name = "department_id")
+  private Department department;
 
   @OneToMany(mappedBy = "teacher", cascade = jakarta.persistence.CascadeType.ALL)
   private List<TeacherSubject> teacherSubjects = new ArrayList<>();
