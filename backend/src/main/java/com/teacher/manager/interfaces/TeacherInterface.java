@@ -12,6 +12,8 @@ public interface TeacherInterface {
 
   List<SubjectDTO> getSubjectsByTeacherId(Long teacherId);
 
+  TeacherDTO getTeacherById(Long id);
+
   List<TeacherDTO> searchTeachersByName(String name);
 
   List<TeacherDTO> getTeachersByGroup(String groupCode);

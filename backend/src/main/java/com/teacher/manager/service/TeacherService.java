@@ -60,6 +60,14 @@ public class TeacherService implements TeacherInterface {
   }
 
   @Override
+  public TeacherDTO getTeacherById(Long id) {
+    Teacher teacher = teacherRepository.findById(id)
+        .orElseThrow(() -> new ResourceNotFoundException(
+            "Enseignant introuvable avec l'id : " + id));
+    return TeacherMapper.toDTO(teacher);
+  }
+
+  @Override
   public List<TeacherDTO> getTeachersByGroup(String groupCode) {
     return teacherRepository.findByGroupCode(groupCode)
         .stream()
@@ -67,7 +75,6 @@ public class TeacherService implements TeacherInterface {
         .collect(Collectors.toList());
   }
 
-  // service/impl/TeacherServiceImpl.java
   @Override
   @Transactional
   public TeacherDTO createTeacher(CreateTeacherRequest request) {

@@ -31,6 +31,12 @@ public class TeacherController {
     return ResponseEntity.ok(teachers);
   }
 
+  // GET /api/teachers/{id}
+  @GetMapping("/{id}")
+  public ResponseEntity<TeacherDTO> getTeacherById(@PathVariable Long id) {
+    return ResponseEntity.ok(teacherService.getTeacherById(id));
+  }
+
   // GET /api/teachers/{id}/subjects
   @GetMapping("/{id}/subjects")
   public ResponseEntity<List<SubjectDTO>> getSubjectsByTeacherId(@PathVariable Long id) {
