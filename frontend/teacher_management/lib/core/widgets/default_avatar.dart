@@ -1,21 +1,25 @@
 import 'package:flutter/material.dart';
 import '../theme/app_colors.dart';
 
-/// Avatar par défaut : fond gris clair + silhouette verte
-/// (tête + épaules), utilisé partout où un enseignant n'a pas de photo.
 class DefaultAvatar extends StatelessWidget {
   final double size;
   final String? photoUrl;
+  final bool? isAppBar;
 
-  const DefaultAvatar({super.key, this.size = 96, this.photoUrl});
+  const DefaultAvatar({
+    super.key,
+    this.size = 96,
+    this.photoUrl,
+    this.isAppBar = false,
+  });
 
   @override
   Widget build(BuildContext context) {
     return Container(
       width: size,
       height: size,
-      decoration: const BoxDecoration(
-        color: AppColors.avatarBg,
+      decoration: BoxDecoration(
+        color: isAppBar == true ? AppColors.avatarBg : Colors.white,
         shape: BoxShape.circle,
       ),
       clipBehavior: Clip.antiAlias,

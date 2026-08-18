@@ -17,7 +17,6 @@ class TeacherRepository {
     return (res.data as List).map((e) => TeacherModel.fromJson(e)).toList();
   }
 
-  // ← ajouté
   Future<TeacherModel> getTeacherById(int id) async {
     final res = await _client.dio.get('/teachers/$id');
     return TeacherModel.fromJson(res.data);

@@ -9,7 +9,7 @@ import '../../data/local_teacher_datasource.dart';
 import '../../data/teacher_repository.dart';
 import '../../data/models/teacher_model.dart';
 
-/// Passez à `false` quand le backend est prêt et branché.
+/// Passez à `false` quand le backend est prêt et branché
 const bool kUseLocalTeacherData = true;
 
 // ---------- Sources de données ----------

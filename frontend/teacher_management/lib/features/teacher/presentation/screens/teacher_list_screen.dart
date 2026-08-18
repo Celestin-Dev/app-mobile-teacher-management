@@ -71,6 +71,7 @@ class _TeacherListScreenState extends ConsumerState<TeacherListScreen> {
         child: Column(
           children: [
             _buildTopBar(context),
+            const Divider(height: 1, color: AppColors.line),
             AnimatedSize(
               duration: const Duration(milliseconds: 250),
               curve: Curves.easeInOut,
@@ -159,27 +160,24 @@ class _TeacherListScreenState extends ConsumerState<TeacherListScreen> {
           children: [
             IconButton(
               onPressed: () => Scaffold.of(context).openDrawer(),
-              icon: const Icon(Icons.menu, color: AppColors.eniGreen, size: 28),
+              icon: const Icon(Icons.menu, color: AppColors.eniGreen, size: 32),
             ),
             const SizedBox(width: 4),
             const Expanded(
               child: Text(
                 'Enseignants',
                 style: TextStyle(
-                  fontSize: 26,
+                  fontSize: 22,
                   fontWeight: FontWeight.w800,
                   color: AppColors.eniGreen,
                 ),
               ),
             ),
             Container(
-              width: 40,
-              height: 40,
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                border: Border.all(color: AppColors.inkSoft, width: 1.4),
-              ),
-              child: DefaultAvatar(size: 24),
+              width: 32,
+              height: 32,
+              decoration: BoxDecoration(shape: BoxShape.circle),
+              child: DefaultAvatar(size: 24, isAppBar: true),
             ),
           ],
         ),
@@ -229,7 +227,7 @@ class _TeacherListScreenState extends ConsumerState<TeacherListScreen> {
             borderSide: BorderSide.none,
           ),
           contentPadding: const EdgeInsets.symmetric(
-            vertical: 16,
+            vertical: 8,
             horizontal: 8,
           ),
         ),

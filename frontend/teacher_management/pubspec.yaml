@@ -23,6 +23,7 @@ dev_dependencies:
   build_runner: ^2.4.9
   json_serializable: ^6.8.0
   flutter_native_splash: ^2.4.7
+  flutter_launcher_icons: ^0.14.4
 
   
 
@@ -33,13 +34,30 @@ flutter:
     - assets/data/teachers.json
     - assets/data/subjects.json
     - assets/data/teacher_subjects.json
+    - assets/images/splash_logo.png
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
 
 flutter_native_splash:
   color: "#008230"
-  image: assets/images/logo.png
+  image: assets/images/splash_logo.png
+  
+  # Mode sombre
+  color_dark: "#0F652F"
+  image_dark: assets/images/splash_logo.png
+
+  # Android 12+
+  android_12:
+    color: "#008230"
+    image: assets/images/splash_logo.png
+    color_dark: "#0F652F"
+    image_dark: assets/images/splash_logo.png
+
   android: true
   ios: true
   web: false
-  android_12:
-    color: "#008230"
-    image: assets/images/logo1.png
+
+  # Évite un flash blanc entre le splash natif et le premier frame Flutter
+  fullscreen: true

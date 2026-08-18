@@ -24,7 +24,7 @@ class TeacherDetailScreen extends ConsumerStatefulWidget {
 }
 
 class _TeacherDetailScreenState extends ConsumerState<TeacherDetailScreen> {
-  int _tabIndex = 0; // 0 = Matières, 1 = Programme
+  int _tabIndex = 0;
   String _selectedGroupFilter = 'Tous';
 
   @override
